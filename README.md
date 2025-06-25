@@ -1,7 +1,9 @@
 # 📊 Customer Satisfaction Dashboard 
 
 Платформа: Yandex DataLens 
+
 [Перейти к дашборду](https://datalens.yandex/ufdi07otl5u0g)
+
 [Перейти к Dashboard Canvas, составленного в процессе подготовки дашборда](https://drive.google.com/file/d/1V1ZgTN0E0e1K74TJ6i_JEFYAW13iFGJv/view)
 
 ---
